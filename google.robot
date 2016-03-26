@@ -13,7 +13,7 @@ Search
 
 *** Keywords ***
 เข้าไป google
-    Open Browser    ${GOOGLE URL}    gc
+    Open Browser    ${GOOGLE URL}
 
 ค้นหาคำว่าน้องเบียร์
     Input Text    q    น้องเบียร์
